@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5eae95d4c96e7c28811a1057"},"number":{"$numberInt":"1"},"year":{"$numberInt":"2015"},"guarantee":"yes","processor":"i9","RAM":{"$numberInt":"4"},"RD":{"$numberInt":"85"},"software":"linux"}
+{"_id":{"$oid":"5eae9685c96e7c28811a1058"},"number":{"$numberInt":"2"},"year":{"$numberInt":"2019"},"guarantee":"no","processor":"i7","RAM":{"$numberInt":"6"},"RD":{"$numberInt":"96"},"software":"windows"}
